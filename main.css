@@ -14,6 +14,7 @@ div {
 
 .green.color {
   color: green;
+  border:none;
   background-image: url("images/green.jpg"); }
 
 /*# sourceMappingURL=main.css.map */
